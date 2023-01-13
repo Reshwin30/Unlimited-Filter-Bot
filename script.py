@@ -1,6 +1,6 @@
 class Script(object):
 
-    START_MSG = <b>Hi there {},
+    START_MSG = """<b>Hi there {},
 
 I'm an advanced filter bot with many capabilities!
 There is no practical limits for my filtering capacity :)
@@ -52,7 +52,7 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Xact Filter Bot</b>
+    ABOUT_MSG = """<b>My Name : Xact Filter Bot</b>
 
 ⭕️<b>Creater :</b> @Xact_Series    
 
