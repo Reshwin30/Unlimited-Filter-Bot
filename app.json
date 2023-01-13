@@ -1,16 +1,16 @@
 {
     "name": "UNLIMITED FILTER BOT",
     "description": "An unlimited filter bot using Mongo DB",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://telegra.ph/XACT-01-07",
     "keywords": [
         "UNLIMITED",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "XACT_SERIES"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "Xact_Series": "https://t.me/Series_movies_channelz",
+    "Xact": "https://t.me/Xact_Seriest",
+    "Group": "https://t.me/Series_movies_channelz_group",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
